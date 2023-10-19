@@ -22,8 +22,7 @@ const Footer = () => {
       </div>
       <div className="flex justify-evenly items-center font-pr">
         <h6 className={`${mode==='light'?'text-gray-600':'text-white'} text-lg px-4 text-center`}>
-          I am a visionary leader and passionate about using technology to solve
-          real-world problems with Artificial Intelligence and Machine learning.
+          I am a visionary leader and passionate about technology.
         </h6>
       </div>
       <div className="container px-5 py-3 mx-auto mt-2 font-pr flex items-center sm:flex-row flex-col">
